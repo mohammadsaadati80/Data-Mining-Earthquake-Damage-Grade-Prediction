@@ -1,4 +1,4 @@
-# Data Mining Earthquake Gorkha
+# Data Mining Earthquake Damage Grade Prediction
 Final Project, Data Mining Course, University of Tehran
 
 In this project, we intend to turn the problem of estimating the damage caused to buildings by earthquakes based on their characteristics into a classification problem. 
